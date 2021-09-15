@@ -568,7 +568,7 @@ PX_offset_list = {
 }
 
 
-PX_offset_time = 28
+PX_offset_time = 32
 
 
 LS_offset_list = {
@@ -641,7 +641,7 @@ DN_offset_list = {
 
 }
 
-DN_offset_time = 18
+DN_offset_time = 21
 
 
 
