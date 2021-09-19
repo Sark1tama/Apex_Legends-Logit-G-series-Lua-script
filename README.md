@@ -65,7 +65,7 @@ LSTAR_Key="ralt"
 HWK_Key="rshift"
 HWK_WL_Key="rctrl"
 ```
-* 操作为按住鼠标4号键或者5号键并按下键盘左右alt，shift，ctrl键盘即可设置对应枪械。
+* 操作为按住鼠标4号键或者5号键并按下键盘左右侧alt，shift，ctrl键即可设置对应枪械。
 * 游戏内灵敏度设置2.5。
 
 ## 说明
