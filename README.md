@@ -76,7 +76,7 @@ HWK_WL_Key="rctrl"
     offset_pattern = 3     --1.KaiGuan    2.YouJian   3.KaiGuan AND YouJian   4.KaiGuan OR YouJian
 ```
 
-* 下为设置自动模式下的键盘停止压枪按键，LSKG=1为使能按下lalt可以在错误时停止压枪，比如2，4模式下往往舔包点击左键也有压枪效果。
+* 下为设置自动模式下的键盘停止压枪按键，LSKG=1为使能按下lalt可以在错误时停止压枪，比如1，4模式下往往舔包点击左键也有压枪效果。
 
 ```
     keybb="lalt"		
