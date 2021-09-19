@@ -1,18 +1,18 @@
 # Apex_Legends-Logit-G-series-Lua-script 
 一个Apex Legends压枪罗技宏
-##安装
-###自动识别武器版
+## 安装
+### 自动识别武器版
 
 * 下载Ultimate.lua后从GHUB为Apex Legends新建指令码后导入脚本。
 * 从[Apex_Legends-auto_recgonize_weapons](https://github.com/zz824865454/Apex_Legends-auto_recgonize_weapons/releases)下载并解压。
 
-###手动设置武器版
+### 手动设置武器版
 
 * 下载Ultimate.lua后从GHUB为Apex Legends新建指令码后导入脚本。
 
-##使用
+## 使用
 
-###自动识别武器版
+### 自动识别武器版
 
 * 编辑GHUB内Apex Legends导入后的指令码，将
 
@@ -28,7 +28,7 @@
 * 若Windows显示缩放为100%游戏分辨率与桌面相同，且分辨率为1280\*1080或2560\*1080则可直接打开AutoRecoginze.exe，任务管理器出现进程后进入游戏即可。
 * 游戏内灵敏度设置2.5。
 
-###手动设置武器版
+### 手动设置武器版
 
 * 编辑GHUB内Apex Legends导入后的指令码，将
 
@@ -68,7 +68,7 @@ HWK_WL_Key="rctrl"
 * 操作为按住鼠标4号键或者5号键并按下键盘左右alt，shift，ctrl键盘即可设置对应枪械。
 * 游戏内灵敏度设置2.5。
 
-##说明
+## 说明
 * 下为设置宏开启模式，1为按下一次开关键后左键开火即有压枪，2为按住右键左键开火即有压枪，3为按下开关键且按住右键，4为按下开关键或者按住右键。
 
 ```
