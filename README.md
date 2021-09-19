@@ -82,5 +82,5 @@ HWK_WL_Key="rctrl"
     keybb="lalt"		
     LSKG = 1
 ```
-
+* 无法使用就将AutoRecoginze.exe及GHUB都以管理员运行。
 
